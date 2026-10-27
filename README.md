@@ -1,16 +1,19 @@
-## Hi there 👋
+### Vinicius Vieira Nogueira
+Engenheiro | Modelagem numérica e séries temporais | Data Science
 
-<!--
-**vvnogueira/vvnogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trabalho com simulação numérica de sistemas dinâmicos e análise de
+séries temporais aplicada a problemas ambientais e econômicos.
+Stack: Python, Jupyter, SQL/Databricks, métodos de análise não-linear
+(expoente de Hurst, DCCA, correlações cruzadas).
 
-Here are some ideas to get you started:
+Formação: Engenharia · MBA em Data Science & Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projetos em destaque**
+- 🔥 [Fires in Brazil](link) — correlações cruzadas e contágio entre
+  focos de incêndio e indicadores econômicos (artigo publicado)
+- 📈 [PUB_Project](link) — sistemas dinâmicos de ordem não inteira:
+  modelagem e simulação numérica
+- 📊 [Kaggle Competitions](link) — competições com foco em feature
+  engineering e validação
+
+📫 [LinkedIn](link) · vinicius@email
