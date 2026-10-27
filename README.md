@@ -9,8 +9,7 @@ Stack: Python, Jupyter, SQL/Databricks, métodos de análise não-linear
 Formação: Engenharia · MBA em Data Science & Analytics
 
 **Projetos em destaque**
-- 🔥 [Fires in Brazil](https://github.com/vvnogueira/Article---Behavior-between-Fires-in-Brazil) — correlações cruzadas e contágio entre
-  focos de incêndio e indicadores econômicos (artigo publicado)
+- 🔥 [Previsão de Etanol no Brasil](https://github.com/vvnogueira/Article---Behavior-between-Fires-in-Brazil) — Análise do comportamento da série de preços de etanol, e previsões futuras de preços.
 - 📈 [PUB_Project](https://github.com/vvnogueira/PUB_Project) — sistemas dinâmicos de ordem não inteira:
   modelagem e simulação numérica
 - 📊 [Análise de Dados](https://github.com/vvnogueira/Analise-de-dados) — Análise de dados com Power Bi e Tableau, realização de diversos temas.
