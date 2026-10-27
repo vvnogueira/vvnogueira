@@ -13,5 +13,6 @@ Formação: Engenharia · MBA em Data Science & Analytics
 - 📈 [PUB_Project](https://github.com/vvnogueira/PUB_Project) — sistemas dinâmicos de ordem não inteira:
   modelagem e simulação numérica
 - 📊 [Análise de Dados](https://github.com/vvnogueira/Analise-de-dados) — Análise de dados com Power Bi e Tableau, realização de diversos temas.
+- 📈 [Modelos_Previsao_Etanol_Brasil](https://github.com/vvnogueira/Modelos_Previsao_Etanol_Brasil) — Previsão de séries temporais para prever o preço futuro de Etanol no Brasil.
 
 📫 [LinkedIn](https://www.linkedin.com/in/vinicius-vieira-nogueira-847704174/) · viniciusvnogueira@hotmail.com
