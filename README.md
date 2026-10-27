@@ -11,9 +11,8 @@ Formação: Engenharia · MBA em Data Science & Analytics
 **Projetos em destaque**
 - 🔥 [Fires in Brazil](https://github.com/vvnogueira/Article---Behavior-between-Fires-in-Brazil) — correlações cruzadas e contágio entre
   focos de incêndio e indicadores econômicos (artigo publicado)
-- 📈 [PUB_Project](link) — sistemas dinâmicos de ordem não inteira:
+- 📈 [PUB_Project](https://github.com/vvnogueira/PUB_Project) — sistemas dinâmicos de ordem não inteira:
   modelagem e simulação numérica
-- 📊 [Kaggle Competitions](link) — competições com foco em feature
-  engineering e validação
+- 📊 [Análise de Dados](https://github.com/vvnogueira/Analise-de-dados) — Análise de dados com Power Bi e Tableau, realização de diversos temas.
 
-📫 [LinkedIn](link) · vinicius@email
+📫 [LinkedIn](https://www.linkedin.com/in/vinicius-vieira-nogueira-847704174/) · viniciusvnogueira@hotmail.com
